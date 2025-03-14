@@ -1,8 +1,0 @@
-{
-    "files.associations": {
-        "myutils.h": "c",
-        "aeroporto.h": "c",
-        "voo.h": "c",
-        "reserva.h": "c"
-    }
-}
